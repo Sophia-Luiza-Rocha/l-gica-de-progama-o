@@ -1,1 +1,1 @@
-# lógica de progamação
+# lógicadeprogamação
