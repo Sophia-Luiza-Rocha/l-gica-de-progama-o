@@ -1,5 +1,6 @@
 algoritmo "tabuada"
 
+
 var
   numero: inteiro
   contador: inteiro
